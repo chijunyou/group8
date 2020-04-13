@@ -1,0 +1,19 @@
+{
+  "sentences": {
+    "language in a world, after Standard Chinese and Spanish.": 9,
+    "English is largest language by result of speakers, and the third mostspoken native": 54
+  },
+  "phrases": {
+    "English is largest": 0,
+    "by result": 100,
+    "of speakers": 50,
+    "the third mostspoken native": 100,
+    "English is largest language": 0,
+    "language by result": 100,
+    "result of speakers": 50,
+    "English is largest language by": 40,
+    "third mostspoken native": 100,
+    "language by result of speakers and the third mostspoken native": 70,
+    "mostspoken native": 100
+  }
+}
